@@ -7,7 +7,7 @@ Multi‑label классификация финансовых продуктов
 
 ## Прокачка стартового baseline
 
-Файл: `baseline_catboost.ipynb`
+Файл: `baseline_catboost_CV.ipynb`
 
 1. **Public Score: 0.82285** — Обучение по классике CatBoost  
 2. **Public Score: 0.82519** — Усреднение по кросс-валидации
