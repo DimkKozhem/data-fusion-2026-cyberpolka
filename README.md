@@ -1,6 +1,6 @@
 # Data Fusion 2026 — Cybershelf / Киберполка
 
-![Project Logo](path/to/your/image.png)
+![Project Logo](Киберполка.png)
 
 **Публичное решение задачи №2 из конкурса Data Fusion Contest 2026**  
 Multi‑label классификация финансовых продуктов банковских клиентов.
